@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "SistemaVenta",
+			"path": "../../../../../xampp/htdocs/SistemaVenta"
+		},
+		{
+			"name": "Inventario_GAT",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
